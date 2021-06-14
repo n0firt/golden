@@ -1,0 +1,8 @@
+@media (max-width: 991px) {
+    p {text-align: center;}
+    h2 {text-align: center;}
+   }
+@media (min-width: 992px) {
+    p {text-align: left;}
+    h2 {text-align: left;}
+   }
